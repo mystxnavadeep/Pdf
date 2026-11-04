@@ -1,0 +1,210 @@
+================================================================================
+AP INTERMEDIATE 2ND YEAR - COMPLETE PDF CLEANING & EXAM MATERIAL ORGANIZER REPORT
+================================================================================
+
+Processing Date & Time : 2026-11-03 17:50:31 UTC
+Total Processing Time  : 708.64 seconds (11.81 minutes)
+Number of PDFs Processed: 10
+Subjects Identified    : 3 (Physics, Chemistry, Mathematics)
+Total Source Pages     : 241
+Double-Page Spreads    : 113 (split into 226 portrait pages)
+Single Portrait Pages  : 128 (retained as single portrait pages)
+Total Final Pages      : 354
+Searchable OCR Pages   : 354/354 (100.0%)
+Processing Failures    : 0
+
+--------------------------------------------------------------------------------
+SOURCE FILES AUDIT & BREAKDOWN
+--------------------------------------------------------------------------------
+File: intermediate 2nd year AP -physics baby bullet ⭐ VSAQ'S.pdf
+  - Category   : VSAQ
+  - Source Pgs : 11
+  - Spreads    : 9 (split into 18 pages)
+  - Singles    : 2
+  - Output Pgs : 20
+
+File: intermediate 2nd year AP -physics baby bullet ⭐SAQ's.pdf
+  - Category   : SAQ
+  - Source Pgs : 16
+  - Spreads    : 14 (split into 28 pages)
+  - Singles    : 2
+  - Output Pgs : 30
+
+File: intermediate 2nd year AP -physics baby bullet ⭐LAQ's.pdf
+  - Category   : LAQ
+  - Source Pgs : 17
+  - Spreads    : 15 (split into 30 pages)
+  - Singles    : 2
+  - Output Pgs : 32
+
+File: intermediate_2nd_year_AP_physics_baby_bullet_⭐OMQ's_and_Guess_papers.pdf
+  - Category   : Important_Questions
+  - Source Pgs : 22
+  - Spreads    : 20 (split into 40 pages)
+  - Singles    : 2
+  - Output Pgs : 42
+
+File: intermediate_2nd_year_AP_chemistry_baby_bullet_⭐VSAQ's_pdf_pdf_pdf.pdf
+  - Category   : VSAQ
+  - Source Pgs : 11
+  - Spreads    : 10 (split into 20 pages)
+  - Singles    : 1
+  - Output Pgs : 21
+
+File: intermediate_2nd_year_AP_chemistry_baby_bullet_⭐SAQ's_pdf_pdf.pdf
+  - Category   : SAQ
+  - Source Pgs : 15
+  - Spreads    : 14 (split into 28 pages)
+  - Singles    : 1
+  - Output Pgs : 29
+
+File: intermediate_2nd_year_AP_chemistry_baby_bullet_⭐LAQ's_pdf_1.pdf
+  - Category   : LAQ
+  - Source Pgs : 14
+  - Spreads    : 13 (split into 26 pages)
+  - Singles    : 1
+  - Output Pgs : 27
+
+File: intermediate_2nd_year_AP_chemistry_baby_bullet_⭐OMQ's_pdf_pdf_pdf.pdf
+  - Category   : Important_Questions
+  - Source Pgs : 21
+  - Spreads    : 18 (split into 36 pages)
+  - Singles    : 3
+  - Output Pgs : 39
+
+File: ap inter 2nd year maths 8marks pdf.pdf
+  - Category   : LAQ
+  - Source Pgs : 50
+  - Spreads    : 0 (split into 0 pages)
+  - Singles    : 50
+  - Output Pgs : 50
+
+File: ap_inter_2nd_year_maths_2marks&1mark&model_papers_pdf.pdf
+  - Category   : MIXED
+  - Source Pgs : 64
+  - Spreads    : 0 (split into 0 pages)
+  - Singles    : 64
+  - Output Pgs : 64
+
+--------------------------------------------------------------------------------
+OUTPUT GENERATED PDF SPECIFICATIONS & QUALITY CONTROL
+--------------------------------------------------------------------------------
+PDF Name: All_Subjects_Combined.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/All_Subjects_Combined.pdf
+  - Page Count  : 354
+  - File Size   : 373.93 MB
+  - Avg OCR Text: 1598 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Chemistry_Clean_Complete.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Chemistry/Chemistry_Clean_Complete.pdf
+  - Page Count  : 116
+  - File Size   : 85.69 MB
+  - Avg OCR Text: 1626 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Chemistry_Important_Questions.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Chemistry/Chemistry_Important_Questions.pdf
+  - Page Count  : 39
+  - File Size   : 31.16 MB
+  - Avg OCR Text: 1768 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Chemistry_LAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Chemistry/Chemistry_LAQ.pdf
+  - Page Count  : 27
+  - File Size   : 21.24 MB
+  - Avg OCR Text: 1227 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Chemistry_SAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Chemistry/Chemistry_SAQ.pdf
+  - Page Count  : 29
+  - File Size   : 18.38 MB
+  - Avg OCR Text: 1580 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Chemistry_VSAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Chemistry/Chemistry_VSAQ.pdf
+  - Page Count  : 21
+  - File Size   : 14.92 MB
+  - Avg OCR Text: 1626 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Mathematics_Clean_Complete.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Mathematics/Mathematics_Clean_Complete.pdf
+  - Page Count  : 114
+  - File Size   : 198.90 MB
+  - Avg OCR Text: 1237 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Mathematics_Important_Questions.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Mathematics/Mathematics_Important_Questions.pdf
+  - Page Count  : 29
+  - File Size   : 52.24 MB
+  - Avg OCR Text: 1118 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Mathematics_LAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Mathematics/Mathematics_LAQ.pdf
+  - Page Count  : 50
+  - File Size   : 84.54 MB
+  - Avg OCR Text: 1237 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Mathematics_VSAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Mathematics/Mathematics_VSAQ.pdf
+  - Page Count  : 35
+  - File Size   : 62.13 MB
+  - Avg OCR Text: 1295 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Physics_Clean_Complete.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Physics/Physics_Clean_Complete.pdf
+  - Page Count  : 124
+  - File Size   : 89.34 MB
+  - Avg OCR Text: 1598 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Physics_Important_Questions.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Physics/Physics_Important_Questions.pdf
+  - Page Count  : 42
+  - File Size   : 31.95 MB
+  - Avg OCR Text: 1748 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Physics_LAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Physics/Physics_LAQ.pdf
+  - Page Count  : 32
+  - File Size   : 22.96 MB
+  - Avg OCR Text: 1293 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Physics_SAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Physics/Physics_SAQ.pdf
+  - Page Count  : 30
+  - File Size   : 20.58 MB
+  - Avg OCR Text: 1684 chars/page
+  - QC Status   : PASSED
+
+PDF Name: Physics_VSAQ.pdf
+  - Path        : /tmp/AP_Inter_2nd_Year_Processed/Physics/Physics_VSAQ.pdf
+  - Page Count  : 20
+  - File Size   : 13.85 MB
+  - Avg OCR Text: 1598 chars/page
+  - QC Status   : PASSED
+
+--------------------------------------------------------------------------------
+WORKFLOW VERIFICATION SUMMARY
+--------------------------------------------------------------------------------
+1. Double-page spread detection: Analyzed aspect ratio and column ink density.
+2. Intelligent gutter split: Minimum ink column valley detected for clean seam split.
+3. Reading order: Left page strictly placed first, right page second.
+4. Single pages: Preserved as single portrait pages without false splitting.
+5. Orientation: Corrected rotated pages (Maths LAQ p50 rotated 90° clockwise to upright).
+6. Image Enhancement: Off-white background normalized to clean white, contrast enhanced,
+   speckle noise filtered, while 100% preserving all colors, red ink, formulas, diagrams,
+   and handwriting.
+7. Searchable OCR Layer: Invisible text layer embedded behind pristine scanned images.
+8. Organization: Complete folder hierarchy created with category PDFs, complete subject
+   PDFs, and master All_Subjects_Combined.pdf with full bookmarks.
