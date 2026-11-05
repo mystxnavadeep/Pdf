@@ -1,0 +1,55 @@
+========================================================================================
+AP INTERMEDIATE 2ND YEAR - COMPLETE PDF RESTORATION & CLEANING REPORT
+Generated at: 2026-11-05 16:12:57 UTC
+========================================================================================
+
+Total Source PDFs Processed    : 10
+Total Source Pages             : 241
+Total Two-Page Spreads Split   : 113
+Total Restored Portrait Pages  : 354
+Total Searchable OCR Pages     : 354 (100.0%)
+Pages Requiring Manual Review  : 0
+Total Processing Time          : 383.6 seconds
+
+----------------------------------------------------------------------------------------
+#   Original Source Filename                         Src   Spreads  Final  OCR    Size(MB)  Status
+----------------------------------------------------------------------------------------
+1   ap inter 2nd year maths 8marks pdf.pdf           50    0        50     50     74.0      SUCCESS
+2   ap_inter_2nd_year_maths_2marks&1mark&model_pap   64    0        64     64     108.3     SUCCESS
+3   intermediate 2nd year AP -physics baby bullet    11    9        20     20     14.5      SUCCESS
+4   intermediate 2nd year AP -physics baby bullet    17    15       32     32     24.0      SUCCESS
+5   intermediate 2nd year AP -physics baby bullet    16    14       30     30     21.6      SUCCESS
+6   intermediate_2nd_year_AP_chemistry_baby_bullet   14    13       27     27     22.1      SUCCESS
+7   intermediate_2nd_year_AP_chemistry_baby_bullet   21    18       39     39     32.7      SUCCESS
+8   intermediate_2nd_year_AP_chemistry_baby_bullet   15    14       29     29     19.2      SUCCESS
+9   intermediate_2nd_year_AP_chemistry_baby_bullet   11    10       21     21     15.5      SUCCESS
+10  intermediate_2nd_year_AP_physics_baby_bullet_⭐   22    20       42     42     33.7      SUCCESS
+----------------------------------------------------------------------------------------
+
+CLEANED DELIVERABLE FILES:
+01. ap inter 2nd year maths 8marks pdf_CLEANED.pdf (50 pages, 74.0 MB)
+02. ap_inter_2nd_year_maths_2marks&1mark&model_papers_pdf_CLEANED.pdf (64 pages, 108.3 MB)
+03. intermediate 2nd year AP -physics baby bullet ⭐ VSAQ'S_CLEANED.pdf (20 pages, 14.5 MB)
+04. intermediate 2nd year AP -physics baby bullet ⭐LAQ's_CLEANED.pdf (32 pages, 24.0 MB)
+05. intermediate 2nd year AP -physics baby bullet ⭐SAQ's_CLEANED.pdf (30 pages, 21.6 MB)
+06. intermediate_2nd_year_AP_chemistry_baby_bullet_⭐LAQ's_pdf_1_CLEANED.pdf (27 pages, 22.1 MB)
+07. intermediate_2nd_year_AP_chemistry_baby_bullet_⭐OMQ's_pdf_pdf_pdf_CLEANED.pdf (39 pages, 32.7 MB)
+08. intermediate_2nd_year_AP_chemistry_baby_bullet_⭐SAQ's_pdf_pdf_CLEANED.pdf (29 pages, 19.2 MB)
+09. intermediate_2nd_year_AP_chemistry_baby_bullet_⭐VSAQ's_pdf_pdf_pdf_CLEANED.pdf (21 pages, 15.5 MB)
+10. intermediate_2nd_year_AP_physics_baby_bullet_⭐OMQ's_and_Guess_papers_CLEANED.pdf (42 pages, 33.7 MB)
+
+ZIP ARCHIVE: AP_Inter_2nd_Year_CLEANED_PDFs.zip (352.1 MB)
+
+IMAGE RESTORATION & PRESERVATION DETAILS:
+1. Photographed Border Removal: Automatic detection and removal of bedsheets, tables, and
+   dark outer camera framing with generous safety margins to preserve all textbook text & formulas.
+2. Two-Page Spread Splitting: Automatic gutter detection across 113 double-page spreads, perfectly
+   splitting them into portrait single pages while maintaining left-to-right reading order.
+3. Sideways Page Correction: Detected and rotated sideways photographed pages (Maths 8marks p50)
+   by 90 degrees clockwise into upright portrait orientation.
+4. Paper Brightness & Contrast Normalization: Multi-channel illumination division and adaptive
+   contrast stretching removed shadows, noise, and camera vignettes, producing clean white backgrounds.
+5. Color & Educational Content Preservation: Preserved all original diagrams, mathematical expressions,
+   equations, tables, headings, stars, and red/black ink without any rewriting or hallucination.
+6. Searchable OCR Layer: Invisible sandwich OCR layer added at 300 DPI across all restored pages.
+========================================================================================
